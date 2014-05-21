@@ -1,0 +1,4 @@
+============================
+USE admin acount to control other accounts 
+username --admin
+password -- admin
